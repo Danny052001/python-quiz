@@ -1,4 +1,4 @@
-print('\n\n\nWelkom bij de gigantische Webdevelopers Quiz 2022')
+print('\n\n\nWelkom bij de gigantische Webdevelopers Quiz 2023')
 
 antwoord=input('Ben je klaar om de Quiz te spelen? (ja/nee) :')
 punten=0
@@ -6,7 +6,7 @@ aantal_vragen=10
  
 if antwoord.lower()=='ja':
 
-    print('\n\nMooi. Dan gaat de gigantische Webdevelopers Quiz 2022 beginnen!\nDe quiz bestaat uit meerkeuzevragen. Kies bij elke vraag uit één van de drie antwoorden.\n\n')
+    print('\n\nMooi. Dan gaat de gigantische Webdevelopers Quiz 2023 beginnen!\nDe quiz bestaat uit meerkeuzevragen. Kies bij elke vraag uit één van de drie antwoorden.\n\n')
 
     antwoord=input('Vraag 1: In welk jaar kwam de Compact Disc op de markt? \n\n A: 1980 \n B: 1981 \n C: 1982 ')
     if antwoord.lower()=='c' or antwoord.lower()=='1982':
